@@ -11,7 +11,7 @@ const data = [
     item: "accepted",
     label: "Crear Usuario",
     percent: 100,
-    quantity: 36473
+    quantity: 39473
   },
   {
     _id: "5de52b4ac4275a463f912041",
